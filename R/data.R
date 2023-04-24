@@ -1,0 +1,22 @@
+#' LaLonde's NSW data
+#'
+#' A subset from LaLonde's National Supported Work study on job training programs.
+#'
+#' @docType data
+#'
+#' @usage data(PackageDataAsset)
+#'
+#' @format
+#' A data frame with 614 rows and 10 columns:
+#' \describe{
+#'   \item{treat}{Treatment assignment (dummy)}
+#'   \item{age}{Participant's age (years)}
+#'   \item{educ}{Participant's years of schooling (years)}
+#'   \item{black}{Whether the participant was black (dummy)}
+#'   \item{hispan}{Whether the participant was hispanic (dummy)}
+#'   \item{married}{Whether the participant was married (dummy)}
+#'   \item{nodegree}{Whether the participant has no high school degree (dummy)}
+#'   \item{re74, re75, re78}{Participant's income in 1974, 1975, and 1978 (dollars)}
+#' }
+#' @source LaLonde, R. J. (1986). Evaluating the econometric evaluations of training programs with experimental data. The American economic review, 604-620.
+"PackageDataAsset"
