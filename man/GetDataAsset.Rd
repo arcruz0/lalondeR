@@ -3,6 +3,9 @@
 \name{GetDataAsset}
 \alias{GetDataAsset}
 \title{Download Lalonde's data from Dropbox}
+\source{
+LaLonde, R. J. (1986). Evaluating the econometric evaluations of training programs with experimental data. The American Economic Review, 604-620.
+}
 \usage{
 GetDataAsset()
 }

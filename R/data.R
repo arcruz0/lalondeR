@@ -18,5 +18,5 @@
 #'   \item{nodegree}{Whether the participant has no high school degree (dummy)}
 #'   \item{re74, re75, re78}{Participant's income in 1974, 1975, and 1978 (dollars)}
 #' }
-#' @source LaLonde, R. J. (1986). Evaluating the econometric evaluations of training programs with experimental data. The American economic review, 604-620.
+#' @source LaLonde, R. J. (1986). Evaluating the econometric evaluations of training programs with experimental data. The American Economic Review, 604-620.
 "PackageDataAsset"

@@ -18,7 +18,7 @@ A data frame with 614 rows and 10 columns:
 }
 }
 \source{
-LaLonde, R. J. (1986). Evaluating the econometric evaluations of training programs with experimental data. The American economic review, 604-620.
+LaLonde, R. J. (1986). Evaluating the econometric evaluations of training programs with experimental data. The American Economic Review, 604-620.
 }
 \usage{
 data(PackageDataAsset)
